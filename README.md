@@ -1,2 +1,5 @@
-# gagnasafnsfraedi
-er að prófa þetta
+# Gagnasafnsfraedi
+
+# Hlutir sem ég lærði
+* SQLite
+* Database Management Systems 
